@@ -1,5 +1,5 @@
 import React from "react";
-import heroText from "../content/heroText";
+import heroText from "../content/herotext";
 
 const CharacterSection = () => (
   <div className="w-full h-screen flex items-center justify-center bg-black">
